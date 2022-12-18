@@ -1,4 +1,4 @@
-Ought is a product-driven research lab, developing mechanisms for delegating open-ended thinking to advanced machine learning systems.
+[Ought](https://ought.org) is a product-driven research lab, developing mechanisms for delegating open-ended thinking to advanced machine learning systems.
 
 Our projects include:
 
