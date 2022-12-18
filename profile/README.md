@@ -1,4 +1,4 @@
-We're a product-driven research lab, developing mechanisms for delegating open-ended thinking to advanced machine learning systems.
+Ought is a product-driven research lab, developing mechanisms for delegating open-ended thinking to advanced machine learning systems.
 
 Our projects include:
 
