@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/oughtinc/.github/main/profile/ought-background.png)
+[![](https://raw.githubusercontent.com/oughtinc/.github/main/profile/ought-background.png)](https://ought.org)
 
 [Ought](https://ought.org) is a product-driven research lab, developing mechanisms for delegating open-ended thinking to advanced machine learning systems.
 
